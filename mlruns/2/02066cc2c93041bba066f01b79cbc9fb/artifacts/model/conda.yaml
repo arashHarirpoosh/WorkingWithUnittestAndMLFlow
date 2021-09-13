@@ -1,0 +1,18 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.7.4
+- pip
+- pip:
+  - mlflow
+  - google-api-python-client==1.7.11
+  - google-cloud-firestore==1.4.0
+  - google-cloud-storage==1.18.0
+  - keras==2.6.0
+  - pillow==8.3.2
+  - pysocks==1.7.1
+  - scipy==1.7.1
+  - tb-nightly==1.14.0a20190603
+  - tensorflow-gpu==2.6.0
+  - tensorflow==2.5.0
+name: mlflow-env

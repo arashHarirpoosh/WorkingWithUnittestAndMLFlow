@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/PYTHON/WorkingWithUnittestAndMLFlow/mlruns/1/eb32decff0db4776bbf17b9e2d210083/artifacts
+end_time: 1631511419681
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: eb32decff0db4776bbf17b9e2d210083
+run_uuid: eb32decff0db4776bbf17b9e2d210083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631511412110
+status: 3
+tags: []
+user_id: Arash
